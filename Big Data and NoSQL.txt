@@ -1,0 +1,2 @@
+Big Data adalah kumpulan data dengan volume, velocity dan variety lebih besar dibanding data biasa. sehingga tidak bisa diproses oleh data processor biasa. namun setelah pengolahan oleh analyst big data kan lebih berbobot dan bermanfaat dibanding data biasa.
+NoSQL atau Not Only SQL adalah database yang lahir atas tantangan dari big data. NoSQL merupakan database yang lebih cocok digunakan pada bisnis yang data workloads nya lebih mengarah kepada rapid processing dan analisis terhadap banyak data tidak terstruktur yang bervariasi atau big data.
